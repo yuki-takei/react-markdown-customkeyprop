@@ -1,6 +1,6 @@
 {
-  "name": "react-markdown",
-  "version": "8.0.6",
+  "name": "react-markdown-customkeyprop",
+  "version": "8.0.6-customkeyprop.0",
   "description": "React component to render markdown",
   "license": "MIT",
   "keywords": [
@@ -14,8 +14,8 @@
     "react-component",
     "component"
   ],
-  "repository": "remarkjs/react-markdown",
-  "bugs": "https://github.com/remarkjs/react-markdown/issues",
+  "repository": "yuki-takei/react-markdown-customkeyprop",
+  "bugs": "https://github.com/yuki-takei/react-markdown-customkeyprop/issues",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/unified"
